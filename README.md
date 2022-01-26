@@ -1,4 +1,4 @@
-# Supervised-ML-Challenge
+# Supervised-ML-Credit Risk Classification
 
 #### Predicting Credit Risk
 
