@@ -1,4 +1,4 @@
-# Supervised-ML-Credit Risk Classification
+# Supervised ML Credit Risk Classification
 
 #### Predicting Credit Risk
 
